@@ -1,0 +1,112 @@
+iOS Device
+Purpose
+Dimensions
+DPI
+File name
+iPhone 4/4S/5/5C/5S/6
+iPod touch 5th generation
+App icon
+120 x 120
+72
+appicon-60@2x.png
+iPhone 6 Plus
+App Icon
+180 x 180
+72
+appicon-60@3x.png
+iPad non-retina
+App icon
+76 x 76
+72
+appicon-76.png
+iPad retina
+App icon
+152 x 152
+72
+appicon-76@2x.png
+Universal non-retina
+Spotlight
+40 x 40
+72
+appicon-Small-40.png
+Universal retina
+Spotlight
+80 x 80
+72
+appicon-Small-40@2x.png
+iPhone 6 Plus
+Spotlight
+120 x 120
+72
+appicon-Small-40@3x.png
+Universal non-retina
+Settings
+29 x 29
+72
+appicon-Small.png
+Universal retina
+Settings
+58 x 58
+72
+appicon-Small@2x.png
+iPhone 6 Plus
+Settings
+87 x 87
+72
+appicon-Small@3x.png
+iPhone 4/4S
+Splash screen
+640 x 960
+72
+Default@2x.png
+iPhone 5/5C/5S
+iPod touch 5th generation
+Splash screen
+640 x 1136
+72
+Default-568h@2x.png
+iPhone 6
+Splash screen
+750 x 1334
+72
+Default-667h@2x.png
+iPhone 6 Plus landscape
+Splash screen
+2208 x 1242
+72
+Default-Landscape-736h@3x.png
+iPhone 6 Plus portrait
+Splash screen
+1242 x 2208
+72
+Default-Portrait-736h@3x.png
+iPad non-retina landscape
+Splash screen
+1024 x 768
+72
+Default-Landscape.png
+iPad non-retina portrait
+Splash screen
+768 x 1024
+72
+Default-Portrait.png
+iPad retina landscape
+Splash screen
+2048 x 1536
+72
+Default-Landscape@2x.png
+iPad retina portrait
+Splash screen
+1536 x 2048
+72
+Default-Portrait@2x.png
+Any device with a non-retina display for ad-hoc builds
+App list in iTunes
+512 x 512
+72
+iTunesArtwork (no extension)
+Any device with a retina display for ad-hoc builds
+App list in iTunes
+1024 x 1024
+72
+iTunesArtwork@2x (no extension)

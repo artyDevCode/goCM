@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="12141" systemVersion="16G29" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="SettingsConnection" representedClassName="SettingsConnection" syncable="YES">
+        <attribute name="boolBasicAuth" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="boolDefault" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="boolHTTPS" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="boolValidateSSL" optional="YES" attributeType="Boolean" usesScalarValueType="YES" syncable="YES"/>
+        <attribute name="textConnection" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textDomain" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textFileTimeout" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textGateway" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textJSONTimeout" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textPageSize" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textPassword" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textPort" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textSortField" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textSortOrder" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="textUserName" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SettingsConnection" positionX="-63" positionY="-18" width="128" height="270"/>
+    </elements>
+</model>
